@@ -1,32 +1,30 @@
-![](qworld/images/readme-logo.jpg)
-
-## [QWorld](https://qworld.net)'s Bronze-Qiskit
+# [QWorld](https://qworld.net)'s Bronze-ProjectQ
 
 **Bronze** is our introductory tutorial on _**quantum computing and quantum programming**_ created in October 2018.
 
-**Bronze-Qiskit** is the version of Bronze using [**Qiskit**](https://qiskit.org) as the quantum programming framework. It was released in February 2021 with the support of [**IBM Quantum**](https://www.ibm.com/quantum-computing/).
+**Bronze-ProjectQ** is the version of Bronze using [**ProjectQ**](hhttps://projectq.ch) as the quantum programming framework. It is under preparation with the support of [**Huawei Technologies Co., Ltd.**](https://www.huawei.com/en).
 
-Bronze is a collection of Jupyter notebooks, and each notebook has many programming tasks to provide hands-on experiences. We see Bronze as a laboratory where you can learn the basics of quantum computing and quantum programming by doing. Bronze has already been used in more than 50 workshops ([the most recent list](http://qworld.net/workshop-bronze/#list)) under QWorld. As a pedagogical strategy, we skip to use complex numbers to keep the tutorial simpler. 
+Bronze is a collection of Jupyter notebooks, and each notebook has many programming tasks to provide hands-on experiences. We see Bronze as a laboratory where you can learn the basics of quantum computing and quantum programming by doing. Bronze has already been used in more than 60 workshops ([the most recent list](http://qworld.net/workshop-bronze/#list)) under QWorld. As a pedagogical strategy, we skip to use complex numbers to keep the tutorial simpler. 
 
-### Prerequisite
+## Prerequisite
 
 The only prerequisite is to know the basics of programming (variables and basic data types, loops, and conditionals). Any previous experience in python will be helpful. If you do not have any such experince, you can check our notebooks on python before starting the tutorial.
 
 Bronze also has notebooks on the basic math to review your knowledge on the simple arithmetic operations on vectors and matrices.
 
-### Bronze-Qiskit's sections
+## Bronze-ProjectQ's sections
 
 - Python (for a quick review)
 - Basic math (for a quick review)
 - Classical systems: bits, coin-flipping, probabilistic state and operators, composite systems, correlation, and controlled operators
-- Quantum systems with Qiskit
-    - Qiskit basics: circuit design, visualization, and simulation
+- Quantum systems with ProjectQ
+    - ProjectQ basics: circuit design, visualization, and simulation
     - quantum basics: quantum coin-flipping and Hadamard operator, quantum states and opeators, visualization of a real-valued qubit, superposition and measurements
     - quantum operators on a real-valued single qubit (rotations and reflections) and quantum tomography
     - entanglement and basic quantum protocols superdense coding and quantum teleportation
     - Grover's search algorithm
 
-Our following elementrary level tutorial _Silver_ is under revision now, and we will start to prepare the advanced level tutorial Gold in 2021.
+Our following elementrary level tutorial _Silver_ can be accessed [here](https://gitlab.com/qworld/silver).
 
 ## Contribution
 
@@ -40,13 +38,6 @@ _Bronze is being developed under [QEducation departmant](https://qworld.net/qedu
 
 Follow the instructions given in the [installation file](installation.pdf)!
 
-<small>
-
-**Using Binder:** _You may [launch Bronze in the cloud with binder](https://mybinder.org/v2/gl/qworld%2Fbronze-qiskit/HEAD?urlpath=lab/tree/START.ipynb) but **please be aware of that**_ 
-- _each time a new session is created, which takes some time to be initiated, and all changes are lost when ending the session; and,_
-- _the session might be terminated if a new tab is not opened within 10 minutes._
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/qworld%2Fbronze-qiskit/HEAD?urlpath=lab/tree/START.ipynb)
-</small>
 
 ## License
 
@@ -68,13 +59,13 @@ Bronze was created by [Abuzer Yakaryilmaz](http://abu.lu.lv) (QWorld & QLatvia) 
 
 Bronze was publicly available on July 7, 2019.
 
-Bronze-Qiskit was released by Abuzer Yakaryilmaz in February 2021.
+Bronze-ProjectQ is being developed by Vishal Sharathchandra Bajpe, Marija Šćekić, and Abuzer Yakaryilmaz.
 
 ### Video lectures
 
-The recording lectures were prepared by Abuzer Yakaryilmaz, Özlem Salehi Köken, and Anastasija Trizna (QLatvia) in August 2020. New recordings will be uploaded in Spring 2021.
+The recording lectures for classical systems were prepared by Abuzer Yakaryilmaz in August 2020.
 
-### Bronze-Qiskit 2021
+### Bronze-ProjectQ 2021
 
 Agnieszka Wolska prepared the new graphics and logos.
 
