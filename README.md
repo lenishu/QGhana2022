@@ -1,5 +1,3 @@
-![](qworld/images/readme-logo.jpg)
-
 # [QWorld](https://qworld.net)'s Bronze-ProjectQ
 
 **Bronze** is our introductory tutorial on _**quantum computing and quantum programming**_ created in October 2018.
