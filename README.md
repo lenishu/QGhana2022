@@ -4,7 +4,7 @@
 
 **Bronze** is our introductory tutorial on _**quantum computing and quantum programming**_ created in October 2018.
 
-**Bronze-ProjectQ** is the version of Bronze using [**ProjectQ**](hhttps://projectq.ch) as the quantum programming framework. It is under preparation with the support of [**Huawei Technologies Co., Ltd.**](https://www.huawei.com/en).
+**Bronze-ProjectQ** is the version of Bronze using [**ProjectQ**](hhttps://projectq.ch) as the quantum programming framework. It was released with the support of [**Huawei Technologies Co., Ltd.**](https://www.huawei.com/en) in October 2021.
 
 Bronze is a collection of Jupyter notebooks, and each notebook has many programming tasks to provide hands-on experiences. We see Bronze as a laboratory where you can learn the basics of quantum computing and quantum programming by doing. Bronze has already been used in more than 60 workshops ([the most recent list](http://qworld.net/workshop-bronze/#list)) under QWorld. As a pedagogical strategy, we skip to use complex numbers to keep the tutorial simpler. 
 
@@ -12,7 +12,7 @@ Bronze is a collection of Jupyter notebooks, and each notebook has many programm
 
 The only prerequisite is to know the basics of programming (variables and basic data types, loops, and conditionals). Any previous experience in python will be helpful. If you do not have any such experince, you can check our notebooks on python before starting the tutorial.
 
-Bronze also has notebooks on the basic math to review your knowledge on the simple arithmetic operations on vectors and matrices.
+Bronze has notebooks on the basic math to review your knowledge on the basic operations on vectors and matrices.
 
 ## Bronze-ProjectQ's sections
 
@@ -30,11 +30,11 @@ Our following elementrary level tutorial _Silver_ can be accessed [here](https:/
 
 ## Contribution
 
-Please make a pull request or create an issue for _reporting typo_ or _your corrections_.
+Please make a merge request or create an issue for _reporting typo_ or _your corrections_.
 
 Please create an issue for _your questions_, _initiating a discussion_, or _proposing a contribution_.
 
-_Bronze is being developed under [QEducation departmant](https://qworld.net/qeducation/) of QWorld._
+_Bronze has been developed under [QEducation departmant](https://qworld.net/qeducation/) of QWorld._
 
 ## Installation
 
@@ -61,7 +61,7 @@ Bronze was created by [Abuzer Yakaryilmaz](http://abu.lu.lv) (QWorld & QLatvia) 
 
 Bronze was publicly available on July 7, 2019.
 
-Bronze-ProjectQ is being developed by Vishal Sharathchandra Bajpe, Marija Šćekić, and Abuzer Yakaryilmaz.
+Bronze-ProjectQ was prepared by Vishal Sharathchandra Bajpe, Marija Šćekić, and Abuzer Yakaryilmaz.
 
 ### Video lectures
 
@@ -70,6 +70,10 @@ The recording lectures for classical systems were prepared by Abuzer Yakaryilmaz
 ### Bronze-ProjectQ 2021
 
 Agnieszka Wolska prepared the new graphics and logos.
+
+The installation instructions was prepared by Vishal Sharathchandra Bajpe.
+
+We thank Claudia Zendejas-Morales and Kenneth Isamade to make a complete revisions of the quantum parts before using it during [QBronze69](https://qworld.net/qbronze69-china-october-2021/) workshop.
 
 ### Bronze 2020 & 2021
 
