@@ -38,7 +38,9 @@ _Bronze has been developed under [QEducation departmant](https://qworld.net/qedu
 
 ## Installation
 
-Follow the instructions given in the [installation file](installation.pdf)!
+Follow the instructions given in the [installation file](installation.pdf).
+
+Here is a [video recording](https://youtu.be/yVmKA3ks_zA) about how to complete installation step by step.
 
 
 ## License
@@ -61,11 +63,13 @@ Bronze was created by [Abuzer Yakaryilmaz](http://abu.lu.lv) (QWorld & QLatvia) 
 
 Bronze was publicly available on July 7, 2019.
 
-Bronze-ProjectQ was prepared by Vishal Sharathchandra Bajpe, Marija Šćekić, and Abuzer Yakaryilmaz.
+ProjectQ adaptation was done by Vishal Sharathchandra Bajpe, Marija Šćekić, and Abuzer Yakaryilmaz between June and October 2021.
 
 ### Video lectures
 
 The recording lectures for classical systems were prepared by Abuzer Yakaryilmaz in August 2020.
+
+The installation recording was prepared by Vishal Sharathchandra Bajpe in October 2021.
 
 ### Bronze-ProjectQ 2021
 
@@ -73,7 +77,7 @@ Agnieszka Wolska prepared the new graphics and logos.
 
 The installation instructions was prepared by Vishal Sharathchandra Bajpe.
 
-We thank Claudia Zendejas-Morales and Kenneth Isamade to make a complete revisions of the quantum parts before using it during [QBronze69](https://qworld.net/qbronze69-china-october-2021/) workshop.
+We thank Claudia Zendejas-Morales and Kenneth Isamade to make some revisions of the quantum parts before using it during [QBronze69](https://qworld.net/qbronze69-china-october-2021/) workshop.
 
 ### Bronze 2020 & 2021
 
